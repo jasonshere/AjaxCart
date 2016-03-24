@@ -1,0 +1,16 @@
+﻿
+/* QQ客服 */
+
+.QQbox{ z-index:99; width: 170px; right: 3px; top: 145px; position: absolute;}
+.QQbox .press{ right: 0; border: none; cursor: pointer;width: 26px; height: 136px;position: absolute;}
+.QQbox .Qlist{ left: 0; width: 170px; background: url(siderIM_bg.gif) padding:5px;}
+.QQbox .Qlist .b{ float: right; height: 6px; width: 170px; font-size: 1px; }
+.QQbox .Qlist .infobox{ text-align:center; background:#bdc5cb; background-image:url(siderIM_infobox.gif); background-repeat:no-repeat;  padding:5px; line-height:14px; color:#000; font-weight:700;}
+.QQbox .Qlist .t{ background:url(siderIM_title.gif); height:34px;}
+.QQbox .Qlist .b{ background:url(siderIM_bottom.gif); height:9px; overflow:hidden; }
+.QQbox .Qlist .con{ background: url(siderIM_bg.gif); width: 100%; padding: 10px 0px 10px 0px;}
+.QQbox .Qlist .con h2{ height: 22px; font: bold 12px/22px "宋体"; background: url(siderIM_bg.gif) repeat-y -163px 0; border: 1px solid #3a708d; text-align: center; color:#fff;}
+
+.QQbox .Qlist .con ul li{ padding: 5px 5px 0px 15px; }
+
+/*QQ END*/
